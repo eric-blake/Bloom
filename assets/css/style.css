@@ -4,20 +4,48 @@
     margin:0;
 }
 
-#hero-image {
-    background: url('../images/hero-image-4.jpg');
-    height:500px;
-    width:100%;
-    background-repeat: no-repeat;
-  
+
+#logo{
+    float:left;
+    font-size: 200%;
+    margin-left: 30px;
+    
+    
 }
+
 /* navigation links */
 #menu {
     font-size: 120%;
     letter-spacing: 4px;
+    
+   
 }
+    
 
 #menu li {
-    list-style: none;
+    list-style:none;
     float:right;
+    margin-right: 30px;
+ 
+}
+/* hero image */
+
+#hero-outer{
+    height:600px;
+    width:100%;
+    overflow: hidden;
+    position: relative;
+    
+    
+
+}
+
+
+#hero-image {
+    background: url('../images/hero-image-4.jpg');
+    height: 600px;
+    width:100%;
+   
+     
+  
 }
