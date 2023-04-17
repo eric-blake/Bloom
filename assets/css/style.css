@@ -4,10 +4,20 @@
     margin:0;
 }
 
-#hero-image{
+#hero-image {
     background: url('../images/hero-image-4.jpg');
     height:500px;
     width:100%;
     background-repeat: no-repeat;
   
+}
+/* navigation links */
+#menu {
+    font-size: 120%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    list-style: none;
+    float:right;
 }
