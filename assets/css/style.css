@@ -71,4 +71,12 @@ line-height: 75px;
     border: 1px solid;
     padding:30px;
     margin:30px;
+    width:50%;
+    float:left;
+}
+
+h2{
+    font-family:karla sans-serif;
+   text-align: center;
+
 }
