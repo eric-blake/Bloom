@@ -9,25 +9,25 @@
 body{
     font-family: merriweather;
     font-weight:300;
-    color:black
+
 }
 
 #logo{
     float:left;
     font-size: 200%;
     margin-left: 30px;
+    color: #347c68;
     
-
-    
-    
+ 
 }
 
 /* navigation links */
 #menu {
     font-size: 120%;
     letter-spacing: 4px;
+  
 
-   
+
 }
     
 
@@ -35,7 +35,11 @@ body{
     list-style:none;
     float:right;
     margin-right: 30px;
- 
+      
+}
+
+#menu a {
+    color: #347c68;
 }
 /* hero image */
 
@@ -44,6 +48,7 @@ body{
     width:100%;
     overflow: hidden;
     position: relative;
+    
 
 }
 
@@ -53,7 +58,7 @@ body{
     height: 600px;
     width:100%;
    
-     
+    
   
 }
 #about {
