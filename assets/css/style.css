@@ -17,7 +17,8 @@ body{
     font-size: 200%;
     margin-left: 30px;
     color: #347c68;
-    
+    padding:20px;
+   
  
 }
 
@@ -25,9 +26,9 @@ body{
 #menu {
     font-size: 120%;
     letter-spacing: 4px;
+    
+ 
   
-
-
 }
     
 
@@ -35,11 +36,16 @@ body{
     list-style:none;
     float:right;
     margin-right: 30px;
-      
+    
 }
 
 #menu a {
     color: #347c68;
+    text-decoration: none;
+}
+
+#menu, logo{
+line-height: 75px;
 }
 /* hero image */
 
