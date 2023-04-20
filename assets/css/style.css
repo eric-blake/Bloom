@@ -70,16 +70,28 @@ line-height: 75px;
     
   
 }
+
+
 #about {
+    width:60%;
     border: 1px solid;
-    padding:30px;
-    margin:30px;
-    width:50%;
-    float:left;
+    padding:20px;
+   
+    box-sizing: border-box;
+  border-radius: 10px;
+  text-align: center;
+ 
+   
 }
 
 h2{
     font-family:karla sans-serif;
    text-align: center;
 
+}
+#photos img {
+    width:20%;
+}
+#photos {
+    margin:60px;
 }
