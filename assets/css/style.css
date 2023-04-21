@@ -105,3 +105,35 @@ h2{
   column-gap: 0;
 }
 
+#facilities {
+    width:60%;
+    border: 1px solid;
+    padding:20px;
+    Margin: 0 auto;
+    box-sizing: border-box;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom:50px;
+}
+
+
+/* footer */
+footer{
+    height:150px;
+    
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media li{
+    display: inline;
+}
+.social-media i {
+    font-size: 225%;
+    color:#347c68;
+    padding: 5%;
+    
+}
