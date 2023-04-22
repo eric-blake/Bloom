@@ -168,7 +168,7 @@ line-height: 75px;
 
 
 #event-1-outer {
-    background: url('../images/Flower-1.JPG') center center;
+    background: url('../images/Flower-1.JPG') center center no-repeat;
     background-size: cover;
     height:400px;
     width:400px;
@@ -176,21 +176,21 @@ line-height: 75px;
 }
 
 #event-2-outer {
-    background: url('../images/Flower-2.JPG') center center;
+    background: url('../images/Flower-2.JPG') center center no-repeat;
     background-size: cover;
     height:400px;
     width:400px;
 }
 
 #event-3-outer {
-    background: url('../images/Flower-3.JPG') center center;
+    background: url('../images/Flower-3.JPG') center center no-repeat;
     background-size: cover;
     height:400px;
     width:400px;
 }
 
 #event-4-outer {
-    background: url('../images/Flower-4.JPG') center center;
+    background: url('../images/Flower-4.JPG') center center no-repeat;
     background-size: cover;
     height:400px;
     width:400px;
