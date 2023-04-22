@@ -212,3 +212,15 @@ footer{
     padding: 2%;
     
 }
+
+#contact-details {
+    float:left;
+    text-align:center;
+   
+    margin-bottom: 30px;
+    margin-left:75px;
+}
+#contact-details ul {
+    list-style:none;
+}
+
