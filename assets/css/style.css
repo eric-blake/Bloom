@@ -129,12 +129,10 @@ h2 {
 
 #events div {
    text-align: center;
-   width:20%;
-   height:300px;
    float:left;
    margin-left: 30px;
    margin-right: 30px;
-   color:black;
+   color:white;
    padding:30px 10px 30px 10px;
    box-sizing: border-box;
    border:2px solid white;
@@ -159,17 +157,39 @@ h2 {
 #event-1-outer {
     background: url('../images/Flower-1.JPG') center center;
     background-size: cover;
+    height:400px;
+    width:400px;
 
 }
 
-#event-1 {
-    background-color: rgba(240,180,150,.6);
-   
+#event-2-outer {
+    background: url('../images/Flower-2.JPG') center center;
+    background-size: cover;
+    height:400px;
+    width:400px;
 }
-#event-1 div {
-    height:150px;
-    width:150px;
+
+#event-3-outer {
+    background: url('../images/Flower-3.JPG') center center;
+    background-size: cover;
+    height:400px;
+    width:400px;
 }
+
+#event-4-outer {
+    background: url('../images/Flower-4.JPG') center center;
+    background-size: cover;
+    height:400px;
+    width:400px;
+}
+#event-1, #event-2, #event-3, #event-4 {
+    background-color: rgba(240,180,150,.9);
+    height:200px;
+    width:300px;
+ 
+}
+
+    
 
 /* footer */
 footer{
