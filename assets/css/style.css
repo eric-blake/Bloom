@@ -132,10 +132,12 @@ h2 {
    float:left;
    margin-left: 30px;
    margin-right: 30px;
+   margin-bottom: 75px;
    color:white;
    padding:30px 10px 30px 10px;
    box-sizing: border-box;
    border:2px solid white;
+ 
   
  
 }
@@ -192,35 +194,36 @@ h2 {
     
 
 /* footer */
+
 footer{
     height:150px;
     clear:both;
-   
-    
+    margin-top: 25px;
+}
+.contact-details {
+    float:left;
+    margin-left: 600px;
+    color:#347c68;
 }
 
 .social-media {
+    float:right;
+    margin-right:600px;
+ 
+}
+
+.contact-details li{
+    list-style:none;
     text-align: center;
 }
 
-.social-media li{
-    display: inline;
-}
-.social-media i {
-    font-size: 225%;
-    color:#347c68;
-    padding: 2%;
-    
-}
-
-#contact-details {
-    float:left;
-    text-align:center;
-   
-    margin-bottom: 30px;
-    margin-left:75px;
-}
-#contact-details ul {
+.social-media li {
     list-style:none;
+    display:inline;
+    padding:30px;
+}
+.social-media i {  
+     font-size: 200%;
+    color:#347c68;
 }
 
