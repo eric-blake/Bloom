@@ -64,7 +64,7 @@ line-height: 75px;
 
 
 #hero-image {
-    background: url('../images/hero-image6.JPG');
+    background: url('../images/hero-image.JPG') center center no-repeat;
     height: 600px;
     width:100%;
    
@@ -148,8 +148,12 @@ line-height: 75px;
   
  
 }
-#event h2  {
-    padding-top:20px;
+#events > h2 {
+    text-align: center;
+    color:#347c68;
+    font-size: 180%;
+    padding-bottom: 30px;
+
 }
 
 
