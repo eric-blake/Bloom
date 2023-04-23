@@ -294,13 +294,26 @@ footer{
 
 /* attractions */
 
+/* #att {
+    background-color: #f2f2f2;
+} */
+
+#title {
+    clear:left;
+    text-align: center;
+    padding:30px;
+    color:#347c68;
+    font-size: 180%;
+   
+}
+
 .attraction-outer {
     clear:left;
     height:400px;
     width:1200px;
     Margin: 0 auto;
-    border:2px solid black;
-   
+    box-shadow: grey 0px 0px 4px;
+    border-radius: 3px;
 }
 
 .right-text {
@@ -319,11 +332,11 @@ footer{
 
 
 
-.right-text  h2 {
+.right-text  h3 {
     line-height: 50px;
 }
 
-.left-text  h2 {
+.left-text  h3 {
     line-height: 50px;
 }
 
