@@ -16,26 +16,25 @@
     <header>
        
         <a href="contact.html">
-            <h1 id="logo"> <i class="fa-solid fa-tree"></i> Bloom</h1>
+            <h1 id="logo"> <i class="fa-brands fa-pagelines"></i> Bloom</h1>
         </a>
         <nav>
             <ul id="menu">
                 <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="contact.html" class="active">Contact</a>
                 </li>
                 <li>
-                    <a href="attractions.html">Attractions</a>
+                    <a href="attractions.html" >Attractions</a>
                 </li>
                 <li>
-                    <a href="index.html">Home</a>
+                    <a href="index.html" >Home</a>
                 </li>
             </ul>
         </nav>
 
     </header>
     <section class= "contact-section">
-
-        
+      
         <form method="POST" action="http:" class="contact-form">
             <h2> Contact Us</h2>
              <label for "first-name">First Name</label>
@@ -50,8 +49,21 @@
             <label for "message">Message</label>
             <input id-"message" name="message" type="text" class= "text-input-message" required>
 
-            <input class ="submit" type="submit" value="Submit"
+            
+            <p> Would you like to sign up to our newsletter?</p>
+            <br>
+            <label for "sign-up">Sign me up</label>
+            <input id="sign-up" name="sign-up" type="radio" class="sign-up" required>
+
+            <label for "no-sign">No thanks</label>
+            <input id="no-sign" name="no-sign" type="radio" class="no-sign" required>
+            <br>
+
+            <input class ="submit" type="submit" value="Submit">
+
+           
         </form>
+
     </section>
 
 

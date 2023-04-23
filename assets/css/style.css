@@ -261,6 +261,7 @@ footer{
 
 /* contact form */
 
+
 .contact-section {
     clear:left;
     background: url('../images/hero-image6.JPG') center center no-repeat;
@@ -272,32 +273,42 @@ footer{
     position:absolute;
     height:500px;
     width:500px;
-    top:40%;
-   left:50%;
- 
-   transform: translate(-50%, -50%);
-    text-align: center;
-    font-size: 125%;
-    background-color:rgba(240,180,150,.8);
+    top:15%;
+    left:15%;
+    text-align: left;
+    font-size: 100%;
+    background-color:rgba(240,180,150,.9);
     padding:20px;
     color:white;
     border:2px solid white;
     
 }
 
+.contact-form > h2 {
+    margin-bottom: 20px;
+}
 .text-input {
     width:100%;
     height:25px;
+    margin-bottom:10px;
+
     
 }
 
 .text-input-message {
     width:100%;
-    height:200px;
+    height:150px;
 }
 
 
+.submit {
+    padding:10px;
+    margin-top:20px;
+}
 
+.sign-up {
+padding:10px;
+}
 
 
 
