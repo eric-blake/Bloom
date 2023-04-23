@@ -307,11 +307,26 @@ footer{
     float:right;
     width:40%;
     padding:20px;
-    text-align: left;
-    
+    text-align:  left;
+    color:#347c68;
+    line-height: 30px;
+    font-size:120%;
+    margin-right:30px;
 
 
 }
+
+
+
+
+.right-text  h2 {
+    line-height: 50px;
+}
+
+.left-text  h2 {
+    line-height: 50px;
+}
+
 
 .left-image {
     float:left;
@@ -331,10 +346,14 @@ footer{
 
 .left-text {
     float:left;
-    width:400px;
+    width:40%;
     padding:20px;
     text-align: left;
     margin-left:60px;
+    color:#347c68;
+    line-height: 30px;
+    font-size:120%;
+
 }
 
 .right-image {
