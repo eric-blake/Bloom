@@ -320,7 +320,7 @@ footer{
    
 }
 
-.left-image > img {
+.left-image  img {
     width: auto;
     height:400px;
     max-height: 100%;
