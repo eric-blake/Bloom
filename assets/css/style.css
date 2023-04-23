@@ -48,6 +48,15 @@ body{
     text-decoration: none;
 }
 
+#menu a:hover {
+    border-bottom: 1px solid #347c68;
+}
+
+
+.active {
+    border-bottom: 1px solid #347c68;
+}
+
 #menu, logo{
 line-height: 75px;
 }
