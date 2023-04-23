@@ -286,3 +286,41 @@ footer{
     width:100%;
     height:200px;
 }
+
+
+
+
+
+
+/* attractions */
+
+#visitor-outer {
+    clear:left;
+    height:400px;
+    width:60%;
+    Margin: 0 auto;
+    border:2px solid black;
+   
+}
+
+#right-visitor {
+    float:right;
+    width:400px;
+    padding:20px;
+    text-align: left;
+    Margin-right:60px;
+
+
+}
+
+#left-visitor {
+    float:left;
+    
+   
+}
+
+#left-visitor > img {
+  height: 400px;
+ 
+}
+
