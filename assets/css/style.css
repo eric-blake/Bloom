@@ -294,7 +294,7 @@ footer{
 
 /* attractions */
 
-#visitor-outer {
+#visitor-outer, #walled-outer {
     clear:left;
     height:400px;
     width:60%;
@@ -324,3 +324,19 @@ footer{
  
 }
 
+#left-walled {
+    float:left;
+    width:400px;
+    padding:20px;
+    text-align: left;
+    margin-left:60px;
+}
+
+#right-walled {
+    float:right;
+}
+
+#right-walled img {
+    height: 400px;
+
+}
