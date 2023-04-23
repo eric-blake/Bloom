@@ -82,7 +82,6 @@ line-height: 75px;
 
 #welcome {
  
-    
    position:absolute;
    top:50%;
    left:50%;
@@ -93,6 +92,7 @@ line-height: 75px;
     padding:20px;
     color:white;
     border:2px solid white;
+    border-radius: 2px;
     text-transform: uppercase;
     letter-spacing:5px;
     
@@ -154,6 +154,7 @@ line-height: 75px;
    padding:30px 10px 30px 10px;
    box-sizing: border-box;
    border:2px solid white;
+   border-radius: 2px;
  
   
  
@@ -336,6 +337,8 @@ padding:10px;
     border-radius: 3px;
 }
 
+
+
 .right-text {
     float:right;
     width:40%;
@@ -364,17 +367,16 @@ padding:10px;
 .left-image {
     float:left;
     width:50%;
-    
-   
+         
 }
+
 
 .left-image  img {
     width: auto;
     height:400px;
     max-height: 100%;
     max-width: 600px;
- 
- 
+  
 }
 
 .left-text {
