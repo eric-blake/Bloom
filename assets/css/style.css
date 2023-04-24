@@ -100,8 +100,30 @@ line-height: 75px;
   
 }
 
+/* about section */
 
-#about{
+#about {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap:nowrap;
+    margin:60px; 
+}
+
+#right-about {
+    flex-basis: 50%;
+    padding-right: 175px;
+    color:#347c68;
+    line-height: 40px;
+    font-size:120%;
+
+}
+
+#left-about {
+    flex-basis: 50%;
+    padding-left: 175px;
+}
+
+/* #about{
     height: 600px;
     padding:20px;
     color:#347c68;
@@ -137,7 +159,7 @@ line-height: 75px;
    text-align: left;
    font-size:180%;
    line-height: 75px;
-}
+} */
 
 
 /* Style events */
