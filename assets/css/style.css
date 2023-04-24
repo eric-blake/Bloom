@@ -5,6 +5,7 @@
     border:0;
     margin:0;
     
+    
 }
 
 body{
@@ -162,11 +163,11 @@ line-height: 75px;
 } */
 
 
+
+
 /* Style events */
 
-
-
-#events div {
+#events >div {
    text-align: center;
    float:left;
    margin-left: 30px;
@@ -178,17 +179,29 @@ line-height: 75px;
    border:2px solid white;
    border-radius: 2px;
  
-  
- 
 }
-#events > h2 {
+
+#events-outer {
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+  
+}
+
+
+/* #title {
     text-align: center;
     color:#347c68;
     font-size: 180%;
     padding-bottom: 30px;
+    
 
+} */
+#events >h2 {
+    color:#347c68;
+    font-size:180%;
+    text-align: center;
 }
-
 
 .date, .location{
     font-size:120%;
@@ -196,7 +209,7 @@ line-height: 75px;
 }
 
 .activity  {
-    font-size:175%
+    font-size:180%
 }
 
 
@@ -245,17 +258,26 @@ footer{
     clear:both;
     margin-top: 25px;
     margin-bottom: 25px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+  
+   
 }
+
+
 .contact-details {
     float:left;
     margin-left: 600px;
     color:#347c68;
+    flex-basis: 50%;
 }
 
 .social-media {
     float:right;
     margin-right:600px;
     margin-top:75px;
+    flex-basis: 50%;
  
 }
 
