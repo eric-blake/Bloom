@@ -272,6 +272,7 @@ footer{
     flex-wrap:nowrap;
     justify-content: center;
     align-items: center;
+    gap:30px;
   
    
 }
@@ -294,7 +295,7 @@ footer{
 
 .contact-details li{
     list-style:none;
-    text-align: center;
+    text-align: right;
 }
 
 .contact-details h2 {
@@ -483,3 +484,4 @@ padding:10px;
 
 }
 
+/* media queries for screens 800px and down */
