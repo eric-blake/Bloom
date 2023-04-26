@@ -557,12 +557,21 @@ padding:10px;
 
 }
 
+/* media queries for screens 950px and down */
+
+
 /* media queries for screens 800px and down */
 
 @media screen and (max-width:800px)
 {
 .contact-form {
     width:300px;
+}
+
+#menu{
+    clear:left;
+    float:left;
+    line-height: 30px;
 }
 }
 
