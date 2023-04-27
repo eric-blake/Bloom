@@ -573,5 +573,14 @@ padding:10px;
     float:left;
     line-height: 30px;
 }
+
+
+footer{
+    flex-wrap: wrap;
+  
+}
+.contact-details li{
+    text-align: center;
+}
 }
 
