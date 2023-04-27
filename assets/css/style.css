@@ -209,6 +209,7 @@ line-height: 75px;
     color:#347c68;
     font-size:180%;
     text-align: center;
+    
 }
 
 .date, .location{
@@ -217,15 +218,17 @@ line-height: 75px;
 }
 
 .activity  {
-    font-size:180%
+    font-size:180%;
+    padding:0px 20px;
 }
+
 
 
 #event-1-outer {
     background: url('../images/Flower-1.JPG') center center no-repeat;
     background-size: cover;
-    height:400px;
-    width:400px;
+    height:375px;
+    width:375px;
 
 
 }
@@ -233,27 +236,27 @@ line-height: 75px;
 #event-2-outer {
     background: url('../images/Flower-2.JPG') center center no-repeat;
     background-size: cover;
-    height:400px;
-    width:400px;
+    height:375px;
+    width:375px;
 }
 
 #event-3-outer {
     background: url('../images/Flower-3.JPG') center center no-repeat;
     background-size: cover;
-    height:400px;
-    width:400px;
+    height:375px;
+    width:375px;
 }
 
 #event-4-outer {
     background: url('../images/Flower-4.JPG') center center no-repeat;
     background-size: cover;
-    height:400px;
-    width:400px;
+    height:375px;
+    width:375px;
 }
 #event-1, #event-2, #event-3, #event-4 {
     background-color: rgba(240,180,150,.9);
     height:200px;
-    width:300px;
+    width:225px;
  
  
 }
@@ -582,5 +585,14 @@ footer{
 .contact-details li{
     text-align: center;
 }
+
+.social-media {
+flex-basis: auto;
 }
 
+#about img {
+    width:75vw;
+}
+
+
+}
