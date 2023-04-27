@@ -420,7 +420,7 @@ padding:10px;
 .attractions-outer  h3 {
     text-align: center;
     color:#347c68;
-    line-height: 30px;
+    line-height: 20px;
     font-size:120%;
     padding-top:20px;
 }
@@ -429,8 +429,8 @@ padding:10px;
     text-align: left;
     color:#347c68;
     line-height: 30px;
-    font-size:120%;
-    padding:20px;
+    font-size:110%;
+    padding:20px 20px 0 20px;
 }
 
 /* .right-text {
