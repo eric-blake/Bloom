@@ -367,6 +367,12 @@ footer{
     margin-top:20px;
 }
 
+.submit:hover{
+    background-color: white;
+    color: rgba(240,180,150);
+}
+
+
 .sign-up {
 padding:10px;
 }
