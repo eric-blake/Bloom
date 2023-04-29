@@ -337,18 +337,20 @@ footer{
     background: url('../images/hero-image6.JPG') center center no-repeat;
     height: 600px;
     color:white;
+    background-size: cover;
+    background-position: ce;
 }
 
 .contact-form{
-    position:relative; /*why relative???*/
+    position:relative; 
    top:50%;
-   left:50%;
+   left:30%;
    transform: translate(-50%, -50%);
     height:500px;
     width:500px;
     text-align: left;
     font-size: 100%;
-    background-color:rgba(240,180,150,.9);
+    background-color: rgba(240,180,150, 0.7);
     padding:20px;
     color:white;
     border:2px solid white;
@@ -362,6 +364,9 @@ footer{
     width:100%;
     height:25px;
     margin-bottom:10px;
+    background: transparent;
+    border:2px solid white;
+    color:white;
 
     
 }
@@ -369,17 +374,20 @@ footer{
 .text-input-message {
     width:100%;
     height:150px;
+    background: transparent;
+    border:2px solid white;
+    color:white;
 }
 
 
 .submit {
     padding:10px;
-    margin-top:20px;
+    margin-top:10px;
 }
 
 .submit:hover{
     background-color: white;
-    color: rgba(240,180,150);
+    color: rgba(240,180,150,0.7);
 }
 
 
