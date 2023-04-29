@@ -227,8 +227,9 @@ line-height: 75px;
 #event-1-outer {
     background: url('../images/Flower-1.JPG') center center no-repeat;
     background-size: cover;
-    height:375px;
+    height:300px;
     width:375px;
+
 
 
 }
@@ -236,22 +237,23 @@ line-height: 75px;
 #event-2-outer {
     background: url('../images/earth-day.JPG') center center no-repeat;
     background-size: cover;
-    height:375px;
+    height:300px;
     width:375px;
 }
 
 #event-3-outer {
     background: url('../images/grow.JPG') center center no-repeat;
     background-size: cover;
-    height:375px;
+    height:300px;
     width:375px;
 }
 
 #event-4-outer {
     background: url('../images/coffee.JPG') center center no-repeat;
     background-size: cover;
-    height:375px;
+    height:300px;
     width:375px;
+   
 }
 #event-1, #event-2, #event-3, #event-4 {
     background-color: rgba(240,180,150);
