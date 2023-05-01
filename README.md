@@ -3,6 +3,8 @@
 Bloom is a site for people who are interested in visiting a beautiful botanical garden in the west of Ireland. 
 The site is targeted towards people who are looking for information about the garden before they visit.
 
+![Screeshot from http://ami.responsivedesign.is/ website, that show how the website looks on commons screen sizes] (/assets/documentation/bloom-mockup-png)
+
 ## Features
 
 ### Navigation Bar:
