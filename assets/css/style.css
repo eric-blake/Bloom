@@ -331,11 +331,12 @@ footer{
 
 .contact-section {
     clear:left;
-    background: url('../images/contact-us.jpg') center center no-repeat;
+    background: url('../images/contact-us.jpg') center center no-repeat; 
     height: 600px;
     color:white;
-    background-size: cover;
+    background-size:cover;
     background-position: center;
+   
 }
 
 .contact-form{
@@ -347,7 +348,7 @@ footer{
     width:500px;
     text-align: left;
     font-size: 100%;
-    background-color: rgba(240,180,150, 0.7);
+    background-color: rgba(240,180,150, 0.8);
     padding:20px;
     color:white;
     border:2px solid white;
@@ -380,6 +381,8 @@ footer{
 .submit {
     padding:10px;
     margin-top:10px;
+    font-size: 110%;
+    font-weight: 500;
 }
 
 .submit:hover{
@@ -590,6 +593,7 @@ padding:10px;
 {
 .contact-form {
     width:300px;
+    left:50%;
 }
 
 #menu{
