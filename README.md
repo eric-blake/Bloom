@@ -2,21 +2,24 @@
 
 Bloom is a site for people who are interested in visiting a beautiful botanical garden in the west of Ireland. 
 The site is targeted towards people who are looking for information about the garden before they visit.
-
-![Screeshot from http://ami.responsivedesign.is/ website, that show how the website looks on commons screen sizes] (Documentation/bloom-mockup.png)
+<img src="/Documentation/bloom-mockup.png" alt="Screeshot from http://ami.responsivedesign.is/ website, that show how the website looks on commons screen sizes">
 
 ## Features
 
 ### Navigation Bar:
 * The navigation bar is featured in all three pages. The fully responisve bar includes links to the Logo, Home page, attractions page and sign-up page and is identical on each page to allow for easy navigation.
 * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the 'back' button.
+<img src="Documentation/navigation-bar.PNG" alt="Screeshot of navigation bar">
+
 
 ### The landing page image:
 The landing page includes a photograph with text overlaw to allow the user to see the name and opening hours of the garden.
+<img src="Documentation/landing-page.PNG" alt="Screeshot of landing page">
 
 ### Event section:
 * This section will allow the user to see what events are on over the next few months. 
 * This section will be updated as these events change to keep the user up to date.
+<img src="Documentation/upcoming-events.png" alt="Screeshot of navigation bar">
 
 ### The Footer:
 * The footer section includes contact details and links to the relevant social media sites for Bloom Gardens.
