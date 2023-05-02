@@ -2,41 +2,41 @@
 
 Bloom is a site for people who are interested in visiting a beautiful botanical garden in the west of Ireland. 
 The site is targeted towards people who are looking for information about the garden before they visit.
-<img src="/Documentation/bloom-mockup.png" alt="Screeshot from http://ami.responsivedesign.is/ website, that show how the website looks on commons screen sizes">
+<img src="assets/Documentation/bloom-mockup.png" alt="Screeshot from http://ami.responsivedesign.is/ website, that show how the website looks on commons screen sizes">
 
 ## Features
 
 * ### Navigation Bar:
     * The navigation bar is featured in all three pages. The fully responisve bar includes links to the Logo, Home page, attractions page and sign-up page and is identical on each page to allow for easy navigation.
     * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the 'back' button.
-<img src="Documentation/navigation-bar.PNG" alt="Screeshot of navigation bar">
+<img src="assets/Documentation/navigation-bar.PNG" alt="Screeshot of navigation bar">
 
 
 * ### The landing page image:
     * The landing page includes a photograph with text overlaw to allow the user to see the name of the garden.
     * This section provides the user with garden opening hours
-<img src="Documentation/landing-page.PNG" alt="Screeshot of landing page">
+<img src="assets/Documentation/landing-page.PNG" alt="Screeshot of landing page">
 
 * ### Event section:
     * This section will allow the user to see what events are on over the next few months. 
     * This section will be updated as these events change to keep the user up to date.
-<img src="Documentation/upcoming-events.png" alt="Screeshot of navigation bar">
+<img src="assets/Documentation/upcoming-events.png" alt="Screeshot of navigation bar">
 
 * ### The Footer:
     * The footer section includes contact details and links to the relevant social media sites for Bloom Gardens.
     * The links will open to a new tab to allow easy navigation for the user.
-<img src="Documentation/footer.PNG" alt="Screeshot of navigation bar">
+<img src="assets/Documentation/footer.PNG" alt="Screeshot of navigation bar">
 
 * ### Attractions:
     * The attractions section will provide the user with a description of the attraction and a supporitng image to see what the attraction looks like.
     * This section is valuable to the user as they will be able to easily identify attactions of interest to them.
-<img src="Documentation/attractions.png" alt="Screeshot of navigation bar">
+<img src="assets/Documentation/attractions.png" alt="Screeshot of navigation bar">
 
 
 * ### The Contact Page:
     * The page will allow the user to contact the Garden for more information or general enquiry. 
     * The user will be asked to submit thier full name, email address and message. The user will have the option of signing up for the newsletter. 
-<img src="" alt="Screeshot of navigation bar">
+<img src="assets/Documentation/contact-us.png" alt="Screeshot of navigation bar">
 
 
 * #### Features left to implement:
