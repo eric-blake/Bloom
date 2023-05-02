@@ -28,9 +28,6 @@ body{
 #menu {
     font-size: 120%;
     letter-spacing: 4px;
-    
- 
-  
 }
     
 
@@ -38,7 +35,6 @@ body{
     list-style:none;
     float:right;
     margin-right: 30px;
-    
 }
 
 #menu a {
@@ -58,6 +54,7 @@ body{
 #menu, logo{
 line-height: 75px;
 }
+
 /* hero image */
 
 #hero-outer{
@@ -65,8 +62,6 @@ line-height: 75px;
     width:100%;
     overflow: hidden;
     position: relative;
-    
-
 }
 
 
@@ -74,12 +69,9 @@ line-height: 75px;
     background: url('../images/hero-image.jpg') center center no-repeat;
     height: 600px;
     width:100%;
-   
-    
 }
 
 #welcome {
- 
    position:absolute;
    top:50%;
    left:50%;
@@ -92,10 +84,7 @@ line-height: 75px;
     border:2px solid white;
     border-radius: 2px;
     text-transform: uppercase;
-    letter-spacing:5px;
-    
-    
-  
+    letter-spacing:5px; 
 }
 
 /* about section */
@@ -105,7 +94,6 @@ line-height: 75px;
     flex-direction: row-reverse;
     flex-wrap:nowrap;
     margin:60px; 
-
 }
 
 #right-about {
@@ -115,68 +103,20 @@ line-height: 75px;
     line-height: 40px;
     font-size:120%;
     padding-left:30px;
-    
-
 }
 
 #left-about {
-    /* flex-basis: 50%; */
     padding-right:30px;
-   /* align-self: center; */
-   
-    
 }
 
 #right-about > p {
     padding:20px 20px 0 0;
 }
 
-/* #about{
-    height: 600px;
-    padding:20px;
-    color:#347c68;
-    line-height: 40px;
-    font-size:120%;
-    
-}
-#right-about {
-    width:40%;
-    padding:20px;
-    Margin: 0 auto;
-  text-align: left;
-  margin-top: 20px;
-  margin-bottom:50px;
-  margin-right:200px;
-  float:right;
- 
- 
- 
-   
-}
-
-#left-about {
-    width:40%;
-    margin-left:200px;
-    margin-top:50px;
- 
- 
-}
-
-#right-about h2 {
-    font-family:karla sans-serif;
-   text-align: left;
-   font-size:180%;
-   line-height: 75px;
-} */
-
-
-
-
 /* Style events */
 
 #events >div {
    text-align: center;
-   /* float:left; */
    margin-left: 30px;
    margin-right: 30px;
    margin-bottom: 30px;
@@ -193,24 +133,13 @@ line-height: 75px;
     flex-direction:row;
     flex-wrap:wrap;
     justify-content: center;
-    gap:75px;
-  
+    gap:75px; 
 }
 
-
-/* #title {
-    text-align: center;
-    color:#347c68;
-    font-size: 180%;
-    padding-bottom: 30px;
-    
-
-} */
 #events >h2 {
     color:#347c68;
     font-size:180%;
-    text-align: center;
-    
+    text-align: center; 
 }
 
 .date {
@@ -223,16 +152,11 @@ line-height: 75px;
     padding:0px 20px;
 }
 
-
-
 #event-1-outer {
     background: url('../images/garden-exhibition.JPG') center center no-repeat;
     background-size: cover;
     height:300px;
     width:375px;
-
-
-
 }
 
 #event-2-outer {
@@ -263,9 +187,6 @@ line-height: 75px;
     position:relative;
    top:10%;
    right:10%;
-    
- 
- 
 }
 
     
@@ -274,7 +195,6 @@ line-height: 75px;
 
 footer{
     height:150px;
-    /* clear:both; */
     margin-top: 25px;
     margin-bottom: 25px;
     display: flex;
@@ -289,16 +209,11 @@ footer{
 
 
 .contact-details {
-    /* float:left; */
-    /* margin-left: 600px; */
     color:#347c68;
     flex-basis: 50%;
 }
 
 .social-media {
-    /* float:right; */
-    /* margin-right:600px; */
-    /* margin-top:75px; */
     flex-basis: 50%;
  
 }
@@ -350,13 +265,13 @@ footer{
     background-color: rgba(240,180,150, 0.8);
     padding:20px;
     color:white;
-    border:2px solid white;
-    
+    border:2px solid white;  
 }
 
 .contact-form > h2 {
     margin-bottom: 20px;
 }
+
 .text-input {
     width:100%;
     height:25px;
@@ -365,8 +280,7 @@ footer{
     border:2px solid white;
     color:white;
     font-size: 16px;
-
-    
+   
 }
 
 .text-input-message {
@@ -401,10 +315,6 @@ padding:10px;
 
 /* attractions */
 
-/* #att {
-    background-color: #f2f2f2;
-} */
-
 #title {
     clear:left;
     text-align: center;
@@ -413,15 +323,6 @@ padding:10px;
     font-size: 180%;
    
 }
-
-/* .attraction-outer {
-    clear:left;
-    height:400px;
-    width:1200px;
-    Margin: 0 auto;
-    box-shadow: grey 0px 0px 4px;
-    border-radius: 3px;
-} */
 
 .attractions-outer {
     display:grid;
@@ -458,21 +359,6 @@ padding:10px;
     font-size:110%;
     padding:20px 20px 0 20px;
 }
-
-/* .right-text {
-    float:right;
-    width:40%;
-    padding:20px;
-    text-align:  left;
-    color:#347c68;
-    line-height: 30px;
-    font-size:120%;
-    margin-right:30px;
-
-
-}
-
-
 
 
 .right-text  h3 {
@@ -521,12 +407,14 @@ padding:10px;
     max-height: 100%;
     max-width: 600px;
 
-} */
+} 
 
 /* media queries for screens 1200px and down */
 
 @media screen and (max-width:1200px)
+
 {
+
 #about {
     flex-direction: column;
 
@@ -578,10 +466,6 @@ padding:10px;
 .item-8 {
     grid-row:8
 }
-/* #events-outer {
-    flex-direction: column;
-    
-} */
 
 
 }
@@ -595,6 +479,7 @@ padding:10px;
 {
 .contact-form {
     width:300px;
+    height:auto;
     left:50%;
 }
 
