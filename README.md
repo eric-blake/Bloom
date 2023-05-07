@@ -40,7 +40,7 @@ The site is targeted towards people who are looking for information about the ga
 
 
 * #### Features left to implement:
-TBD
+N/A
 
 * ### Testing:
     * I tested that this site works in different browsers: Chrome, Microsoft edge, Firefox, Safari.
@@ -67,5 +67,9 @@ The site was deployed to GitHub pages. The steps to deploy are as follows
     * Once the Master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the succesful deployment.
 
 * ### Credits
-    * The inages on the Home, attractions and contact poage werer taken from  [Pexels](http://www.pexels.com/ "Pexels") 
-    * The icons in the footer were taken from Font Awesome
+    * The images on the Home, attractions and contact pages were taken from  [Pexels](http://www.pexels.com/ "Pexels") 
+    * The icons in the footer were taken from [Font Awesome](https://https://fontawesome.com/ "Font Awesome")
+    * Information and tips on using CSS Flexbox and Grid from my mentor Mitko Bachvarov
+    * The code to make the CSS flexbox was taken from (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    * The code to make the CSS Grid was taken from (https://css-tricks.com/snippets/css/complete-guide-grid/)
+    * Tips and instructions through-out project was taken from [Code Institute](https://codeinstitute.net/ie/) Tutorials and Love Running project.
