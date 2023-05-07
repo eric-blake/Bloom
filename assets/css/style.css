@@ -470,8 +470,6 @@ padding:10px;
 
 }
 
-/* media queries for screens 950px and down */
-
 
 /* media queries for screens 800px and down */
 
@@ -507,4 +505,23 @@ flex-basis: auto;
 }
 
 
+}
+
+
+/* media queries for screens 650px and down */
+
+@media screen and (max-width:650px)
+{
+    .attractions-outer  {
+        display:grid;
+        grid-template-columns:75vw;
+        grid-template-rows: auto;
+        justify-content: center;
+    }
+
+    .attractions-outer img{
+        width:75vw;
+        height: auto;
+        justify-self: center;
+    }
 }
