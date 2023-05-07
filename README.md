@@ -61,7 +61,7 @@ No unfixed bugs
 
 
 * ### Deployment
-The site was deployed to GitHub pages. The steps to deploy are as follows
+    * The site was deployed to GitHub pages. The steps to deploy are as follows
     * In the Github repository, navigate to the Setting tab
     * From the source section drop-down menu, select the Master Branch.
     * Once the Master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the succesful deployment.
