@@ -72,4 +72,4 @@ The site was deployed to GitHub pages. The steps to deploy are as follows
     * Information and tips on using CSS Flexbox and Grid from my mentor Mitko Bachvarov
     * The code to make the CSS flexbox was taken from [CSS-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ "CSS-tricks" )
     * The code to make the CSS Grid was taken from [CSS-tricks.com](https://css-tricks.com/snippets/css/complete-guide-grid/ "CSS-tricks")
-    * Tips and instructions through-out project was taken from [Code Institute](https://codeinstitute.net/ie/ "Code Institute") Tutorials and Love Running project.
+    * instructions through-out project was taken from [Code Institute](https://codeinstitute.net/ie/ "Code Institute") Tutorials and Love Running project.
