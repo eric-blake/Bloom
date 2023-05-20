@@ -66,11 +66,13 @@ N/A
  ## Testing:
 
 ### Manual Testing
-    * I tested that this site works in different browsers: Chrome, Microsoft edge, Firefox, Safari.
-    * I confirmed that this site is responsive, looks good and functions on all standard screen sizes using the devtools device.
-    * I confirm that the navigation, header, about us and contact text are all readable and easy to understand.
-    * I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works.
-
+| Test | Result |
+| ------------- | ------------- |
+| This site works in different browsers: Chrome, Microsoft edge, Firefox, Safari.| Pass|
+| This site is responsive, looks good and functions on all standard screen sizes using the devtools device. | Pass  |
+| The navigation, header, about us and contact text are all readable and easy to understand. | Pass |
+| The form works: requires entries in every field, will only accept an email in the email field, and the submit button works. | Pass |
+  
 ### Validator Testing:
 * HTML
     * No errors were returned when passing through the official W3C validator. 
