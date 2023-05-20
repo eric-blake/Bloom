@@ -39,10 +39,12 @@ The site is targeted towards people who are looking for information about the ga
 <img src="assets/Documentation/contact-us.png" alt="Screeshot of navigation bar">
 
 
-* #### Features left to implement:
+* ### Features left to implement:
 N/A
 
-* ### Testing:
+* ## Testing:
+
+### Manual Testing
     * I tested that this site works in different browsers: Chrome, Microsoft edge, Firefox, Safari.
     * I confirmed that this site is responsive, looks good and functions on all standard screen sizes using the devtools device.
     * I confirm that the navigation, header, about us and contact text are all readable and easy to understand.
@@ -50,23 +52,40 @@ N/A
 
 ### Validator Testing:
 * HTML
-    * No errors were returned when passing through the official W3C validator.
-* CSs
+    * No errors were returned when passing through the official W3C validator. 
+    <img src="assets/Documentation/W3C HTML Validator.PNG" alt="Screeshot of W3C HTML Validator results">
+* CSS
     * No errors were found when passing through the official (Jigsaw) validator.
+    <img src="assets/Documentation/W3C CSS Validator.PNG" alt="Screeshot of W3C CSS Validator results">
+
 * Accessibility
-    * I conformed that the colors and fonts used are easy to read and accessible by running it through lighthosue in devtools.
+    * I confirmed that the colors and fonts used are easy to read and accessible by running it through lighthouse in devtools.
+    
+
+## Wireframe
+* The wireframe was created using Mockflow
+  <img src="assets/Documentation/Wireframe.PNG" alt="Screeshot of Wireframe">
+
+
+## Bugs
+* ### Fixed bugs
+| Bug | Fix |
+| ------------- | ------------- |
+| Logo nav link on contact page not working | Corrected link |
+| Home button in nav very close to edge of screen on small screens | Added border to push button out  |
+| Attractions page had horizontal scrool bar at 1212px | Update media query to start from 1220px  |
 
 * ### Unfixed Bugs
 No unfixed bugs
 
 
-* ### Deployment
+* ## Deployment
     * The site was deployed to GitHub pages. The steps to deploy are as follows
     * In the Github repository, navigate to the Setting tab
     * From the source section drop-down menu, select the Master Branch.
     * Once the Master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the succesful deployment.
 
-* ### Credits
+* ## Credits
     * The images on the Home, attractions and contact pages were taken from  [Pexels](https://www.pexels.com/ "Pexels") 
     * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/ "Font Awesome")
     * Information and tips on using CSS Flexbox and Grid from my mentor Mitko Bachvarov
@@ -74,3 +93,5 @@ No unfixed bugs
     * The code to make the CSS Grid was taken from [CSS-tricks.com](https://css-tricks.com/snippets/css/complete-guide-grid/ "CSS-tricks")
     * instructions through-out project was taken from [Code Institute](https://codeinstitute.net/ie/ "Code Institute") Tutorials and Love Running project.
     * Desription of walled garden in Attractions sections from [Wikipedia ](https://en.wikipedia.org/wiki/Walled_garden "Wikipedia")
+    * The wireframe was created using [Mockflow ](https://mockflow.com/ "Mockflow")
+    
