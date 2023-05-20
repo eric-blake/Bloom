@@ -13,10 +13,10 @@ The site is targeted towards people who are looking for information about the ga
 
 ### Colors
 * Keeping with the garden theme the color used for the headings and paragraphs is a light green #347c68.
-* The background color used is the welcome message, upcoming events and contatc form is a form of red rgba(240,180,150).
+* The background color used is the welcome message, upcoming events and contact form is a form of red rgba(240,180,150).
 
 ### Font
-* The font used throughout is merriweather
+* The font used throughout is Merriweather
 
 ### Images
 * All the images used throughout are for decorative purposed only. All the images on the site are from pexels.com.
@@ -83,8 +83,9 @@ N/A
 
 * Accessibility
     * I confirmed that the colors and fonts used are easy to read and accessible by running it through lighthouse in devtools.
-    Desktop 
+     ### Desktop 
      <img src="assets/Documentation/lighthouse-desktop.PNG" alt="Lighthouse desktop report">
+     ### Mobile
      <img src="assets/Documentation/lighthouse-mobile.png" alt="Lighthouse mobile report">
 
 
@@ -100,19 +101,19 @@ N/A
 No unfixed bugs
 
 
- ## Deployment
-    * The site was deployed to GitHub pages. The steps to deploy are as follows
-    * In the Github repository, navigate to the Setting tab
-    * From the source section drop-down menu, select the Master Branch.
-    * Once the Master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the succesful deployment.
+## Deployment
+ * The site was deployed to GitHub pages. The steps to deploy are as follows
+ * In the Github repository, navigate to the Setting tab
+ * From the source section drop-down menu, select the Master Branch.
+ * Once the Master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the succesful deployment.
 
- ## Credits
-    * The images on the Home, attractions and contact pages were taken from  [Pexels](https://www.pexels.com/ "Pexels") 
-    * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/ "Font Awesome")
-    * Information and tips on using CSS Flexbox and Grid from my mentor Mitko Bachvarov
-    * The code to make the CSS flexbox was taken from [CSS-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ "CSS-tricks" )
-    * The code to make the CSS Grid was taken from [CSS-tricks.com](https://css-tricks.com/snippets/css/complete-guide-grid/ "CSS-tricks")
-    * instructions through-out project was taken from [Code Institute](https://codeinstitute.net/ie/ "Code Institute") Tutorials and Love Running project.
-    * Desription of walled garden in Attractions sections from [Wikipedia ](https://en.wikipedia.org/wiki/Walled_garden "Wikipedia")
-    * The wireframe was created using [Mockflow ](https://mockflow.com/ "Mockflow")
+## Credits
+ * The images on the Home, attractions and contact pages were taken from [Pexels](https://www.pexels.com/ "Pexels") 
+ * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/ "Font Awesome")
+ * Information and tips on using CSS Flexbox and Grid from my mentor Mitko Bachvarov
+ * The code to make the CSS flexbox was taken from [CSS-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ "CSS-tricks" )
+ * The code to make the CSS Grid was taken from [CSS-tricks.com](https://css-tricks.com/snippets/css/complete-guide-grid/ "CSS-tricks")
+ * Instructions throughout project was taken from [Code Institute](https://codeinstitute.net/ie/ "Code Institute") Tutorials and Love Running project.
+ * Desription of walled garden in Attractions sections from [Wikipedia ](https://en.wikipedia.org/wiki/Walled_garden "Wikipedia")
+ * The wireframe was created using [Mockflow ](https://mockflow.com/ "Mockflow")
     
