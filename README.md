@@ -13,13 +13,13 @@ The site is targeted towards people who are looking for information about the ga
 
 ### Colors
 * Keeping with the garden theme the color used for the headings and paragraphs is a light green #347c68.
-* The background color used is rgba(240,180,150,.8) with white text.
+* The background color used is the welcome message, upcoming events and contatc form is a form of red rgba(240,180,150).
 
 ### Font
 * The font used throughout is merriweather
 
 ### Images
-* The images on the site are from pexels.com
+* All the images used throughout are for decorative purposed only. All the images on the site are from pexels.com.
 
 ### Wireframe
 * The wireframe was created using Mockflow
@@ -81,7 +81,9 @@ N/A
 
 * Accessibility
     * I confirmed that the colors and fonts used are easy to read and accessible by running it through lighthouse in devtools.
-     <img src="assets/Documentation/lighthouse-report.PNG" alt="Lighthouse report">
+    Desktop 
+     <img src="assets/Documentation/lighthouse-desktop.PNG" alt="Lighthouse desktop report">
+     <img src="assets/Documentation/lighthouse-mobile.png" alt="Lighthouse mobile report">
 
 
 ## Bugs
