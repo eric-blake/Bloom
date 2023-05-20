@@ -505,6 +505,10 @@ flex-basis: auto;
     width:75vw;
 }
 
+#title {
+   padding-top: 50px;
+}
+
 
 }
 
