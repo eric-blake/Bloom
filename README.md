@@ -1,8 +1,29 @@
 # Bloom
 
+<img src="assets/Documentation/bloom-mockup.png" alt="Screeshot from http://ami.responsivedesign.is/ website, that show how the website looks on commons screen sizes">
+
 Bloom is a site for people who are interested in visiting a beautiful botanical garden in the west of Ireland. 
 The site is targeted towards people who are looking for information about the garden before they visit.
-<img src="assets/Documentation/bloom-mockup.png" alt="Screeshot from http://ami.responsivedesign.is/ website, that show how the website looks on commons screen sizes">
+- By Eric Blake
+
+
+# [Live site](https://eric-blake.github.io/Bloom/ "Live site") 
+
+## UX design
+
+### Colors
+* Keeping with the garden theme the color used for the headings and paragraphs is a light green #347c68.
+* The background color used is rgba(240,180,150,.8) with white text.
+
+### Font
+* The font used throughout is merriweather
+
+### Images
+* The images on the site are from pexels.com
+
+### Wireframe
+* The wireframe was created using Mockflow
+  <img src="assets/Documentation/Wireframe.PNG" alt="Screeshot of Wireframe">
 
 ## Features
 
@@ -42,7 +63,7 @@ The site is targeted towards people who are looking for information about the ga
 * ### Features left to implement:
 N/A
 
-* ## Testing:
+ ## Testing:
 
 ### Manual Testing
     * I tested that this site works in different browsers: Chrome, Microsoft edge, Firefox, Safari.
@@ -60,11 +81,7 @@ N/A
 
 * Accessibility
     * I confirmed that the colors and fonts used are easy to read and accessible by running it through lighthouse in devtools.
-    
-
-## Wireframe
-* The wireframe was created using Mockflow
-  <img src="assets/Documentation/Wireframe.PNG" alt="Screeshot of Wireframe">
+     <img src="assets/Documentation/lighthouse-report.PNG" alt="Lighthouse report">
 
 
 ## Bugs
@@ -79,13 +96,13 @@ N/A
 No unfixed bugs
 
 
-* ## Deployment
+ ## Deployment
     * The site was deployed to GitHub pages. The steps to deploy are as follows
     * In the Github repository, navigate to the Setting tab
     * From the source section drop-down menu, select the Master Branch.
     * Once the Master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the succesful deployment.
 
-* ## Credits
+ ## Credits
     * The images on the Home, attractions and contact pages were taken from  [Pexels](https://www.pexels.com/ "Pexels") 
     * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/ "Font Awesome")
     * Information and tips on using CSS Flexbox and Grid from my mentor Mitko Bachvarov
