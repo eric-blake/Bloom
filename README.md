@@ -83,10 +83,10 @@ N/A
 
 * Accessibility
     * I confirmed that the colors and fonts used are easy to read and accessible by running it through lighthouse in devtools.
-     ### Desktop 
+     #### Desktop 
      <img src="assets/Documentation/lighthouse-desktop.PNG" alt="Screenshot of Lighthouse desktop report">
 
-     ### Mobile
+     #### Mobile
      <img src="assets/Documentation/lighthouse-mobile.png" alt="Screenshot of Lighthouse mobile report">
 
 
