@@ -93,7 +93,7 @@ line-height: 75px;
     display: flex;
     flex-direction: row-reverse;
     flex-wrap:nowrap;
-    margin:60px; 
+    margin:60px 30px 60px 30px; 
 }
 
 #right-about {
@@ -262,7 +262,7 @@ footer{
     height:500px;
     width:500px;
     text-align: left;
-    background-color: rgba(240,180,150, 0.8);
+    background-color: rgba(240,180,150, 0.9);
     padding:20px;
     color:white;
     border:2px solid white;  
@@ -485,6 +485,7 @@ padding:10px;
     clear:left;
     float:left;
     line-height: 30px;
+    margin-left: 10px;
 }
 
 
@@ -524,4 +525,21 @@ flex-basis: auto;
         height: auto;
         justify-self: center;
     }
+}
+
+/* media queries for screens 450px and down */
+@media screen and (max-width:450px)
+{
+
+#menu {
+     font-size: 100%;
+}
+    #about {    
+    margin: 0 5px;
+    padding:0;
+    font-size: 90%;
+}
+#welcome{
+    font-size: 100%;
+}
 }
