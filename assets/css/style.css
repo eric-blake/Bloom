@@ -488,7 +488,6 @@ padding:10px;
     margin-left: 10px;
 }
 
-
 footer{
     flex-wrap: wrap;
   
@@ -511,7 +510,6 @@ flex-basis: auto;
 
 
 }
-
 
 /* media queries for screens 650px and down */
 
@@ -560,6 +558,10 @@ flex-basis: auto;
    
 }
 
+#event-1-outer, #event-2-outer,#event-3-outer,#event-4-outer {
+    width:75vw;
+    height:75vw;
+}
 
 }
 
