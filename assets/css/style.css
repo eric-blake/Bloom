@@ -517,13 +517,13 @@ flex-basis: auto;
 {
     .attractions-outer  {
         display:grid;
-        grid-template-columns:75vw;
+        grid-template-columns:90vw;
         grid-template-rows: auto;
         justify-content: center;
     }
 
     .attractions-outer img{
-        width:75vw;
+        width:90vw;
         height: auto;
         justify-self: center;
     }
@@ -539,7 +539,7 @@ flex-basis: auto;
     #about {    
     margin: 10px 5px 0 5px;
     padding:0;
-    font-size: 90%;
+   
 }
 
 #menu li {
@@ -550,11 +550,12 @@ flex-basis: auto;
     font-size: 100%;
 }
 
-#left-about, #right-about {
+#left-about, #right-about, .attractions-outer p {
     padding: 5px;
+    font-size: 100%;
 }
 #events >h2 {
-    margin-top: 20px;
+    margin-top: 30px;
    
 }
 
@@ -563,6 +564,14 @@ flex-basis: auto;
     height:75vw;
 }
 
+.contact-form {
+    width: 250px;
+
 }
 
+
+
+
+
+}
 
