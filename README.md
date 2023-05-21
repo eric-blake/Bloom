@@ -96,7 +96,8 @@ N/A
 | ------------- | ------------- |
 | Logo nav link on contact page not working | Corrected link |
 | Home button in nav very close to edge of screen on small screens | Added border to push button out  |
-| Attractions page had horizontal scroll bar at 1212px | Update media query to start from 1220px  |
+| Attractions page had horizontal scroll bar at 1212px | Updated media query to start from 1220px  |
+| Contact form goes off screen at 815px | Updated contact form left position |
 
 * ### Unfixed Bugs
 No unfixed bugs
