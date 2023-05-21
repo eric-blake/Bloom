@@ -556,7 +556,13 @@ flex-basis: auto;
 }
 #events >h2 {
     margin-top: 30px;
+    font-size:160%;
    
+}
+
+#right-about>h2 {
+    font-size:160%;
+    margin: 20px 0;
 }
 
 #event-1-outer, #event-2-outer,#event-3-outer,#event-4-outer {
@@ -565,13 +571,17 @@ flex-basis: auto;
 }
 
 .contact-form {
-    width: 250px;
+    width: 250pxh;
 
 }
+#hero-outer {
+    height:400px;
+}
 
-
-
-
+#right-about p {
+    padding:5px;
+    line-height:30px;
+}
 
 }
 
