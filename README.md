@@ -1,6 +1,6 @@
 # Bloom
 
-<img src="assets/Documentation/bloom-mockup.png" alt="Screenshot from http://ami.responsivedesign.is/ website, that show how the website looks on commons screen sizes">
+<img src="assets/documentation/bloom-mockup.png" alt="Screenshot from http://ami.responsivedesign.is/ website, that show how the website looks on commons screen sizes">
 
 Bloom is a site for people who are interested in visiting a beautiful botanical garden in the west of Ireland. 
 The site is targeted towards people who are looking for information about the garden before they visit.
@@ -23,41 +23,41 @@ The site is targeted towards people who are looking for information about the ga
 
 ### Wireframe
 * The wireframe was created using Mockflow.
-  <img src="assets/Documentation/Wireframe.PNG" alt="Screenshot of Wireframe">
+  <img src="assets/documentation/Wireframe.PNG" alt="Screenshot of Wireframe">
 
 ## Features
 
 * ### Navigation Bar:
     * The navigation bar is featured in all three pages. The fully responsive bar includes links to the Logo, Home page, attractions page and sign-up page and is identical on each page to allow for easy navigation.
     * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the 'back' button.
-<img src="assets/Documentation/navigation-bar.PNG" alt="Screenshot of navigation bar">
+<img src="assets/documentation/navigation-bar.PNG" alt="Screenshot of navigation bar">
 
 
 * ### The landing page image:
     * The landing page includes a photograph with text overlay to allow the user to see the name of the garden.
     * This section provides the user with garden opening hours.
-<img src="assets/Documentation/landing-page.PNG" alt="Screenshot of landing page">
+<img src="assets/documentation/landing-page.PNG" alt="Screenshot of landing page">
 
 * ### Event section:
     * This section will allow the user to see what events are on over the next few months. 
     * This section will be updated as these events change to keep the user up to date.
-<img src="assets/Documentation/upcoming-events.png" alt="Screenshot of events page">
+<img src="assets/documentation/upcoming-events.png" alt="Screenshot of events page">
 
 * ### The Footer:
     * The footer section includes contact details and links to the relevant social media sites for Bloom Gardens.
     * The links will open to a new tab to allow easy navigation for the user.
-<img src="assets/Documentation/footer.PNG" alt="Screenshot of footer">
+<img src="assets/documentation/footer.PNG" alt="Screenshot of footer">
 
 * ### Attractions:
     * The attractions section will provide the user with a description of the attraction and a supporting image to see what the attraction looks like.
     * This section is valuable to the user as they will be able to easily identify attractions of interest to them.
-<img src="assets/Documentation/attractions.png" alt="Screenshot of navigation bar">
+<img src="assets/documentation/attractions.png" alt="Screenshot of navigation bar">
 
 
 * ### The Contact Page:
     * The page will allow the user to contact the Garden for more information or general enquiry. 
     * The user will be asked to submit their full name, email address and message. The user will have the option of signing up for the newsletter. 
-<img src="assets/Documentation/contact-us.png" alt="Screenshot of navigation bar">
+<img src="assets/documentation/contact-us.png" alt="Screenshot of navigation bar">
 
 
 * ### Features left to implement:
@@ -76,18 +76,18 @@ N/A
 ### Validator Testing:
 * HTML
     * No errors were returned when passing through the official W3C validator. 
-    <img src="assets/Documentation/W3C HTML Validator.PNG" alt="Screenshot of W3C HTML Validator results">
+    <img src="assets/documentation/W3C-HTML-Validator.PNG" alt="Screenshot of W3C HTML Validator results">
 * CSS
     * No errors were found when passing through the official (Jigsaw) validator.
-    <img src="assets/Documentation/W3C CSS Validator.PNG" alt="Screenshot of W3C CSS Validator results">
+    <img src="assets/documentation/W3C-CSS-Validator.PNG" alt="Screenshot of W3C CSS Validator results">
 
 * Accessibility
     * I confirmed that the colors and fonts used are easy to read and accessible by running it through Google Chrome lighthouse in devtools.
      #### Desktop 
-     <img src="assets/Documentation/lighthouse-desktop.PNG" alt="Screenshot of Lighthouse desktop report">
+     <img src="assets/documentation/lighthouse-desktop.PNG" alt="Screenshot of Lighthouse desktop report">
 
      #### Mobile
-     <img src="assets/Documentation/lighthouse-mobile.png" alt="Screenshot of Lighthouse mobile report">
+     <img src="assets/documentation/lighthouse-mobile.png" alt="Screenshot of Lighthouse mobile report">
 
 
 ## Bugs
