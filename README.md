@@ -104,16 +104,27 @@ No unfixed bugs
 
 
 ## Deployment and local development
-* The site was deployed to GitHub pages. The steps to deploy are as follows
+### Deployment
+The site was deployed to GitHub pages. The steps to deploy are as follows
     * In the Github repository, navigate to the Setting tab.
     * From the source section drop-down menu, select the Master Branch.
     * Once the Master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-* The repository was cloned to my local PC. The steps to clone are as follows
-    * In the Github repository, navigate to the main page of the repository.
-    * Select open with Github desktop
-    * From the file drop down menu, select Clone repository
-    * Select Bloom repository, choose Local path and select Clone
 
+### Cloning the repository
+The repository was cloned to my local PC. The steps to clone are as follows.
+    * In the Github repository, navigate to the main page of the repository.
+    * Click on the green Code button and copy the URL.
+    * Select Clone by HTTPS option.
+    * Open the code editor and within the terminal change the directory to the location you want to clone the repository to.
+    * Type git clone and paste the URL copied earlier.
+    * Press enter to create the local clone.
+
+    
+### Forking the repository
+By forking the repository, you can make a copy of the repository and make changes without affecting the original repository. the steps to fork are as follows
+    * Locate the repository in Github.
+    * On the top right corner of the page click Fork.
+    * A copy of the repository will now be created in your own repository
 
 ## Credits
  * The images on the Home, attractions and contact pages were taken from [Pexels](https://www.pexels.com/ "Pexels").
