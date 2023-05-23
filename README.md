@@ -103,11 +103,17 @@ N/A
 No unfixed bugs
 
 
-## Deployment
- The site was deployed to GitHub pages. The steps to deploy are as follows
- * In the Github repository, navigate to the Setting tab.
- * From the source section drop-down menu, select the Master Branch.
- * Once the Master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+## Deployment and local development
+* The site was deployed to GitHub pages. The steps to deploy are as follows
+    * In the Github repository, navigate to the Setting tab.
+    * From the source section drop-down menu, select the Master Branch.
+    * Once the Master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+* The repository was cloned to my local PC. The steps to clone are as follows
+    * In the Github repository, navigate to the main page of the repository.
+    * Select open with Github desktop
+    * From the file drop down menu, select Clone repository
+    * Select Bloom repository, choose Local path and select Clone
+
 
 ## Credits
  * The images on the Home, attractions and contact pages were taken from [Pexels](https://www.pexels.com/ "Pexels").
